@@ -6,8 +6,9 @@
 Релейный компьютер
 ---
 
-- http://www.relaiscomputer.nl/index.php/elements 
-- https://www.youtube.com/watch?v=NXeBR-lbnjI 
+- [Схема реле](http://machinedesign.com/site-files/machinedesign.com/files/uploads/2014/07/relay_diagram.gif)
+- [Схема одного релейного компьютера](http://www.relaiscomputer.nl/index.php/elements)
+- [Другой релейный компьютер в действии](https://www.youtube.com/watch?v=NXeBR-lbnjI)
 
 Что почитать
 ---
