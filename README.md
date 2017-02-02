@@ -12,6 +12,8 @@
 
 [Симулятор для выполнения заданий.](http://www.nand2tetris.org/software.php)
 
+[Книжка по курсу](https://bit.ly/nandbook)
+
 ## Примерный план занятий
 1. **(26 января)** [Вводное занятие. Булева логика. Транзисторы и реле.](lectures/01_boolean_logic.md)
 2. **(2 февраля)** [Булева арифметика.](lectures/02_boolean_arithmetic.md)
