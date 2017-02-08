@@ -4,8 +4,8 @@
 
 ## Триггер
 
-- SR AND-OR latch: [wiki](https://en.wikipedia.org/wiki/Flip-flop_(electronics)#SR_AND-OR_latch), [Falstad](http://tinyurl.com/j9fw4rd)
-- [Data flip-flop timing](https://dl.dropboxusercontent.com/u/25207227/D_flipflop_timing.gif)
+- SR AND-OR latch: [wiki](https://en.wikipedia.org/wiki/Flip-flop_(electronics)#SR_AND-OR_latch), [Falstad](http://tinyurl.com/j9fw4rd), [видео собранного бистабильного мультивибратора](https://youtu.be/0dX36Z9gnLY)
+- Data flip-flop timing: [picture](https://dl.dropboxusercontent.com/u/25207227/D_flipflop_timing.gif), [Falstad](http://www.falstad.com/circuit/e-masterslaveff.html)
 
 ## Домашнее задание
 - Прочитать главу 3 из книги.
