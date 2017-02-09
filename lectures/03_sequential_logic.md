@@ -11,3 +11,5 @@
 - Прочитать главу 3 из книги.
 - Выполнить задания в конце главы (также информация есть здесь http://www.nand2tetris.org/03.php)
 
+## Разводка плат
+- [Вузовский учебник](https://www.dropbox.com/s/hxohatpwsivabv8/0511859_8A56E_zhan_m_rabai_cifrovye_integralnye_shemy_metodologiya_proekti.djvu?dl=0)
