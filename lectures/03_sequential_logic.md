@@ -1,6 +1,7 @@
 # Секвенциальная логика
 
-[Презентация](http://www.nand2tetris.org/lectures/PDF/lecture%2003%20sequential%20logic.pdf)
+- [Презентация](http://www.nand2tetris.org/lectures/PDF/lecture%2003%20sequential%20logic.pdf)
+- [Задание](http://www.nand2tetris.org/03.php)
 
 ## Триггер
 
