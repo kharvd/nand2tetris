@@ -1,6 +1,7 @@
 # Булева логика
 
-[Презентация](http://www.nand2tetris.org/lectures/PDF/lecture%2001%20Boolean%20logic.pdf)
+- [Презентация](http://www.nand2tetris.org/lectures/PDF/lecture%2001%20Boolean%20logic.pdf)
+- [Задание](http://www.nand2tetris.org/01.php)
 
 ## Домашнее задание
 - Прочитать введение и главу 1 из книги (выложена в чате).
