@@ -1,0 +1,52 @@
+// var i := 0;
+// var position := 16384 + 4000;
+// while i < 16 {
+//   screen[position] := 32767;
+//   position := position + 32;
+//   i := i + 1;
+// }
+
+function 02.init 0
+call 02.main 0
+label 02.init$LOOP
+goto 02.init$LOOP
+
+function 02.main 2
+// var i := 0;
+push constant 0
+pop local 0
+
+// var position := 16384 + 4000;
+push constant 20384
+pop local 1
+
+// while i < 16 {
+label WHILE
+push local 0
+push constant 16
+lt
+not
+if-goto WHILE_END
+
+//   screen[position] := 32767;
+push local 1
+pop pointer 1
+push constant 32767
+pop that 0
+
+//   position := position + 32;
+push local 1
+push constant 32
+add
+pop local 1
+
+//   i := i + 1;
+push local 0
+push constant 1
+add
+pop local 0
+
+goto WHILE
+
+label WHILE_END
+return
